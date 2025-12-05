@@ -1,0 +1,8 @@
+id,token_id,score,label,reason,updated_at
+1,AITK,42.01,Suspicious,Detected 2945 suspicious posts out of 7010 total.,2025-12-05 17:39:21.116753
+2,NEURA,40.8,Suspicious,Detected 3002 suspicious posts out of 7358 total.,2025-12-05 17:39:21.122760
+3,BLOC,40.58,Suspicious,Detected 2881 suspicious posts out of 7100 total.,2025-12-05 17:39:21.126749
+4,OMNI,40.88,Suspicious,Detected 2895 suspicious posts out of 7082 total.,2025-12-05 17:39:21.131755
+5,XCY,40.79,Suspicious,Detected 2924 suspicious posts out of 7169 total.,2025-12-05 17:39:21.136766
+6,TAO,41.29,Suspicious,Detected 2955 suspicious posts out of 7156 total.,2025-12-05 17:39:21.141751
+7,RNDR,41.26,Suspicious,Detected 2940 suspicious posts out of 7125 total.,2025-12-05 17:39:21.144748
