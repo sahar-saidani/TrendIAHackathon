@@ -1,0 +1,8 @@
+token_id,risk_score,label,total_posts,suspicious_posts,reason
+BLOC,34.84,SAFE,14333,4994,Community sentiment appears organic.
+TAO,34.07,SAFE,14270,4862,Community sentiment appears organic.
+NEURA,34.04,SAFE,14226,4842,Community sentiment appears organic.
+XCY,33.94,SAFE,14329,4863,Community sentiment appears organic.
+RNDR,33.85,SAFE,14286,4836,Community sentiment appears organic.
+OMNI,33.5,SAFE,14260,4777,Community sentiment appears organic.
+AITK,33.08,SAFE,14296,4729,Community sentiment appears organic.
