@@ -1,0 +1,7 @@
+narrative_id,name,keywords,description,confidence_score,detected_at,post_count,account_count,risk_level,trending_score
+1,Election Interference,"fraud,vote,rigged,election",AI detected narrative about election interference,0.8797,2025-10-17,819,16,medium,0.7672
+2,Health Misinformation,"vaccine,danger,side effects,big pharma",AI detected narrative about health misinformation,0.8973,2025-10-17,1081,21,medium,0.554
+3,Financial Scams,"crypto,free money,investment,get rich",AI detected narrative about financial scams,0.9347,2025-10-27,4706,94,high,0.782
+4,Political Propaganda,"conspiracy,deep state,elite,control",AI detected narrative about political propaganda,0.793,2025-11-21,630,12,medium,0.4387
+5,Climate Denial,"hoax,climate change,weather,normal",AI detected narrative about climate denial,0.8188,2025-11-19,2048,40,medium,0.8165
+6,Social Unrest,"protest,riot,government,revolution",AI detected narrative about social unrest,0.9006,2025-10-27,537,10,high,0.8277
