@@ -1,8 +1,8 @@
-token_id,risk_score,label,total_posts,suspicious_posts,reason
-BLOC,34.84,SAFE,14333,4994,Community sentiment appears organic.
-TAO,34.07,SAFE,14270,4862,Community sentiment appears organic.
-NEURA,34.04,SAFE,14226,4842,Community sentiment appears organic.
-XCY,33.94,SAFE,14329,4863,Community sentiment appears organic.
-RNDR,33.85,SAFE,14286,4836,Community sentiment appears organic.
-OMNI,33.5,SAFE,14260,4777,Community sentiment appears organic.
-AITK,33.08,SAFE,14296,4729,Community sentiment appears organic.
+token_id,risk_score,label,bot_ratio,avg_sentiment,reason
+BLOC,34.84,SUSPICIOUS,34.8,0.26,Moderate bot activity observed.
+TAO,34.07,SUSPICIOUS,34.1,0.25,Moderate bot activity observed.
+NEURA,34.04,SUSPICIOUS,34.0,0.26,Moderate bot activity observed.
+XCY,33.94,SUSPICIOUS,33.9,0.25,Moderate bot activity observed.
+RNDR,33.85,SUSPICIOUS,33.9,0.27,Moderate bot activity observed.
+OMNI,33.5,SUSPICIOUS,33.5,0.26,Moderate bot activity observed.
+AITK,33.08,SUSPICIOUS,33.1,0.25,Moderate bot activity observed.
