@@ -1,8 +1,0 @@
-token_id,risk_score,label,bot_ratio,avg_sentiment,reason
-BLOC,34.84,SUSPICIOUS,34.8,0.26,Moderate bot activity observed.
-TAO,34.07,SUSPICIOUS,34.1,0.25,Moderate bot activity observed.
-NEURA,34.04,SUSPICIOUS,34.0,0.26,Moderate bot activity observed.
-XCY,33.94,SUSPICIOUS,33.9,0.25,Moderate bot activity observed.
-RNDR,33.85,SUSPICIOUS,33.9,0.27,Moderate bot activity observed.
-OMNI,33.5,SUSPICIOUS,33.5,0.26,Moderate bot activity observed.
-AITK,33.08,SUSPICIOUS,33.1,0.25,Moderate bot activity observed.
